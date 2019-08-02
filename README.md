@@ -1,2 +1,2 @@
-# RSKPaper
-RSK Design Wiki
+# The RSK Book
+Available here: https://github.com/rsksmart/RSKBook/wiki
